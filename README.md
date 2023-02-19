@@ -24,7 +24,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h2>Lifecycle Stages</h2>
 
 <p>
-<img src="https://i.imgur.com/kyyqdd9.png" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/DB5X3Qh.png" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Triage the tickets by setting the Priority and SLA Plan. Then assign the ticket to a Department and to a Team or Agent.
@@ -32,7 +32,7 @@ Triage the tickets by setting the Priority and SLA Plan. Then assign the ticket 
 <br />
 
 <p>
-<img src="https://i.imgur.com/aFYNAD5.png" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/5l42GiO.png" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Establish communication as soon as possible and start working on the ticket.
@@ -40,7 +40,7 @@ Establish communication as soon as possible and start working on the ticket.
 <br />
 
 <p>
-<img src="https://i.imgur.com/hNDNJjh.png" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/pNbUyZd.png" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Notify when the issue is resolved then close the ticket.
